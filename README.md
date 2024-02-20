@@ -1,16 +1,21 @@
-# solutionchallengeproject
 
-A new Flutter project.
+## 📜 Introduction
+The purpose of this project is to address one of the fundamental challenges faced by women in the technology industry: the feeling of professional isolation. The TogetHER platform aims to mitigate this sense of isolation by providing guidance and support through experienced mentors. The application seeks to create a network of support and collaboration, ensuring women do not feel alone in their professional journeys. Developed using Firebase, Google Cloud, and Flutter technologies, this mobile application offers a cross-platform experience accessible on both iOS and Android devices. TogetHER aims to enhance gender equality in the tech industry, thereby fostering innovation and creativity.
 
-## Getting Started
+## 🎥 Demo Video Link
 
-This project is a starting point for a Flutter application.
+## 📲 How To Download
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 App Photos
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ⚙️ About
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img alt="About" src="https://github.com/karahanyavuzkara/TogetHER-SolutionChallenge/assets/145847994/ba069bdb-0a71-496b-8e57-0f24d154dca7" width="900px"/>
+
+
+
+## 👥 Contributors
+|[Karahan Yavuz Kara](https://github.com/karahanyavuzkara)| [Emir Cevdet Ünsal](https://github.com/emircevdet)                               | [Bilge Kurtaslan](https://github.com/wreelds)|[Doruk İskenderoğlu](https://github.com/DorukIskenderoglu)|
+|---|---|---|---|
+|| <img src="https://avatars.githubusercontent.com/u/145847994?v=4" width="200px"/> |||
+
